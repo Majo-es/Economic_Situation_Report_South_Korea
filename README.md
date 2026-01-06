@@ -1,6 +1,6 @@
 # Economic Situation Report: Republic of Korea
 
-[![Universidad de Barcelona](https://img.shields.io/badge/Universidad-Barcelona-blue)](https://www.ub.edu)
+[![Universidad de Barcelona](https://img.shields.io/badge/University-UB-blue)](https://www.ub.edu)
 [![Master](https://img.shields.io/badge/Master-Logistics%20%26%20International%20Trade-green)]()
 [![Date](https://img.shields.io/badge/Date-January%202026-orange)]()
 
